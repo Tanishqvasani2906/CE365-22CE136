@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "prac3_Lexer",
+      "request": "launch",
+      "mainClass": "prac3_Lexer",
+      "projectName": "CE365-22CE136_81ce6d6"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
